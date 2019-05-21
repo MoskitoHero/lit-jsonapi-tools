@@ -1,7 +1,7 @@
 {
   "name": "lit-jsonapi-tools",
   "version": "1.0.1",
-  "main": "index.js",
+  "main": "jsonapi-resource.js",
   "license": "MIT",
   "dependencies": {
     "lit-element": "^2.1.0"
