@@ -1,0 +1,9 @@
+{
+  "name": "lit-jsonapi-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.1.0"
+  }
+}
