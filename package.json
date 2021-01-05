@@ -11,7 +11,7 @@
   "author": "MoskitoHero <contact@moskitohero.com>",
   "private": false,
   "devDependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "jsona": "^1.5.0"
   }
 }
