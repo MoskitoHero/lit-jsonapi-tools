@@ -1,0 +1,17 @@
+{
+  "name": "lit-jsonapi-tools",
+  "version": "1.0.5",
+  "main": "jsonapi-resource.js",
+  "license": "MIT",
+  "dependencies": {
+    "lit-element": "^2.1.0"
+  },
+  "description": "A series of lit-element components to access jsonapi-compliant APIs",
+  "repository": "git@github.com:MoskitoHero/lit-jsonapi-tools.git",
+  "author": "MoskitoHero <contact@moskitohero.com>",
+  "private": false,
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "jsona": "^1.5.0"
+  }
+}
